@@ -1,7 +1,12 @@
 ---
 title: "Dynamically Scaling Kubernetes Deployments"
 date: 2018-03-13T22:06:14-04:00
-draft: true
+categories:
+  - Kubernetes
+tags:
+  - Kubernetes
+  - go
+  - scaling
 ---
 
 - [Go client for Kubernetes](https://github.com/kubernetes/client-go)
