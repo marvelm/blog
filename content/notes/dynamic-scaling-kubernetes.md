@@ -15,8 +15,6 @@ tags:
 
 ```go
 import (
-    "time"
-
     metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
     "k8s.io/client-go/kubernetes"
     "k8s.io/client-go/kubernetes/typed/apps/v1beta2"
